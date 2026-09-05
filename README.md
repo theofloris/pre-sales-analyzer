@@ -168,7 +168,7 @@ pre-sales-analyzer/
 
 ### V1 — API and reliability
 
-* [ ] FastAPI endpoint
+* [x] FastAPI endpoint
 * [ ] Automated LLM evaluation
 * [ ] Improved validation and error handling
 * [ ] Better effort estimation
